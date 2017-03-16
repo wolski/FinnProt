@@ -1,7 +1,7 @@
 ---
 title: "FDR - False Discovery Rate estimation using decoys"
 author: "Witold Wolski"
-date: "January 21, 2017"
+date: "January 16.03, 2017"
 output: 
   - slidy_presentation
   - rmarkdown::html_vignette
