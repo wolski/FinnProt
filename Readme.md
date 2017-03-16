@@ -1,4 +1,4 @@
-## install the ISCB2017 R package
+## install the FinnProt R package
 
 ```{r}
 install.packages('devtools')
