@@ -18,8 +18,7 @@ vignette: >
 knitr::opts_chunk$set(echo = TRUE)
 rm(list=ls())
 library(plyr)
-library(ISCB2017)
-
+library(FinnProt)
 ```
 
 # Overview MS
